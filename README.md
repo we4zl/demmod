@@ -148,3 +148,7 @@ node scripts/smoke-browser.mjs
 Set `PLAYWRIGHT_MODULE` to the installed Playwright module path if it lives outside this project. The browser check exercises offline/live encode at all three rates, Play-driven receive, cancellation and browser errors. Node and Playwright are development tools only.
 
 See [THIRD_PARTY.md](THIRD_PARTY.md) for native dependency details and [Sol's phased workbook](SOL_WORKBOOK.md) for implementation history, validation evidence and the remaining hardware acceptance work.
+
+## WEAZL and WE4ZL branding
+
+Forking or reusing code does not grant permission to brand or market your own product with the WEAZL™ or WE4ZL™ wordmarks or the weazl head logo. See the [trademark and artwork notice](TRADEMARKS.md).
